@@ -1,4 +1,4 @@
-### Hi there 👋, Ali Aqa Rasikh
+### Ali Aqa Rasikh
 #### Software Development
 ![Software Development](https://media.licdn.com/dms/image/D4D16AQHH-1yWXEssvg/profile-displaybackgroundimage-shrink_350_1400/0/1714159426905?e=1719446400&v=beta&t=sfCcS-wl97Hl1ZTMQnn8me8666jsJb-Wzsk-2dI7Z5g)
 
