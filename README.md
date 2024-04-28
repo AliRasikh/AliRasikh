@@ -4,6 +4,7 @@
 I'm Rasikh, a student majoring in Informatik at Augsburg University of Applied Sciences. I'm passionate about coding and exploring new technologies. I'm currently working on personal projects to develop my skills and apply innovative approaches to problem-solving.
 
 ## Skills
+* Object-Oriented Programming
 * Java, Python
 * HTML, CSS, JS
 * REACT
