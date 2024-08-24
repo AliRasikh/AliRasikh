@@ -1,14 +1,18 @@
 ![1714159426905](https://github.com/AliRasikh/AliRasikh/assets/122123938/891a4d85-6426-40ea-b738-383f8de21641)
 
 # Ali Aqa Rasikh
-I'm Rasikh, a student majoring in Informatik at Augsburg University of Applied Sciences. I'm passionate about coding and exploring new technologies. I'm currently working on personal projects to develop my skills and apply innovative approaches to problem-solving.
+Driven by a passion for coding and emerging technologies, I am dedicated to mastering my craft and continuously expanding my skillset through hands-on projects and creative problem-solving.
 
 ## Skills
+* Java
+* Spring framework
 * Object-Oriented Programming
-* Java, Python
-* HTML, CSS, JS
-* REACT
+* Python
+* HTML5, CSS
+* JavaScript
+* REACT.js
 * MySQL, PostgreSQL
+* Docker
 * Git & GitHub
 
 
