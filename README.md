@@ -8,7 +8,6 @@ Driven by a passion for coding and emerging technologies, I am dedicated to mast
 * Spring framework
 * Data JPA
 * Object-Oriented Programming
-* Python
 * HTML5, CSS
 * JavaScript
 * REACT.js
