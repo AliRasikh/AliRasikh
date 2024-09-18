@@ -6,7 +6,7 @@ Driven by a passion for coding and emerging technologies, I am dedicated to mast
 ## Skills
 * Java
 * Spring framework
-* JPA
+* Data JPA
 * Object-Oriented Programming
 * Python
 * HTML5, CSS
