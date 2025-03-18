@@ -6,14 +6,16 @@ Driven by a passion for coding and emerging technologies, I am dedicated to mast
 ## Skills
 * Java
 * Spring framework
-* Data JPA
+* Data JPA, SQLAlchemy
 * Object-Oriented Programming
+* Python, Flask
 * HTML5, CSS
 * JavaScript
 * REACT.js
 * MySQL, PostgreSQL
 * Docker
 * Git & GitHub
+* Web Scraping and Web Automation
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-aqa-rasikh-4494a1194/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AliRasikh)  
