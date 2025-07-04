@@ -14,7 +14,7 @@ Driven by a passion for coding and emerging technologies, I am dedicated to mast
 * MySQL, PostgreSQL
 * Docker
 * Git & GitHub
-* Web Scraping and Web Automation
+* Web Scraping and Web Automation (bs4, selenium)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' width='30'>](https://www.linkedin.com/in/ali-aqa-rasikh-4494a1194/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' width='30'>](https://github.com/AliRasikh)
 
