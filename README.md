@@ -7,6 +7,7 @@ Driven by a passion for coding and emerging technologies, I am dedicated to mast
 * Java
 * Spring framework
 * Data JPA, SQLAlchemy
+* PHP & Laminas framework
 * Object-Oriented Programming
 * Python, Flask
 * HTML5, CSS
